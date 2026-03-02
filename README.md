@@ -21,7 +21,6 @@ Security Research Toolkit — Video and image analysis tool for neural inpaintin
 # Security Research Toolkit
 
 [![Python](https://img.shields.io/badge/Python-3.4+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com)
 [![CUDA](https://img.shields.io/badge/CUDA-Optional-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 
